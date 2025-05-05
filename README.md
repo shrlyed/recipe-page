@@ -25,9 +25,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [recipe-pg](https://recipe-pg.netlify.app/)
 
 ## My process
 
@@ -51,7 +49,7 @@ I learned using marker to customize the bullet and also the number
 
 ### Continued development
 
-CSS units such as %, rem, em, vw, vh
+the usage of CSS units such as %, rem, em, vw, vh
 
 ## Author
 
